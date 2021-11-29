@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maggie Ziwei Wu"
 title_separator          : "-"
 name                     : &name "Ziwei Wu"
-description              : &description "personal description"
+description              : &description "2nd year PhD @UIUC"
 url                      : https://hhhiddleston.github.io #https://academicpages.github.io the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hhhiddleston/hhhiddleston.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Maggie Wu"
   avatar           : "profile.png"
   bio              : "2nd Year PhD @iSchool UIUC"
-  location         : "Champaign"
+  location         : "Champaign, IL"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=glHe3FwAAAAJ"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  # github           : "academicpages"
+  github           : "hhhiddleston"
   google_plus      :
   keybase          :
   instagram        :
