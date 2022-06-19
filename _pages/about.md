@@ -38,8 +38,6 @@ I am a second-year PhD student at University of Illinois at Urbana-Champaign (UI
 
 <h2 id="publications"> Publications</h2>
 
----
-
 **Training Fair Deep Neural Networks by Balancing Influence.**
 
 Haonan Wang<sup>\*</sup>, <u>Ziwei Wu</u><sup>\*</sup>, Jingrui He
@@ -57,19 +55,19 @@ Haonan Wang<sup>\*</sup>, <u>Ziwei Wu</u><sup>\*</sup>, Jingrui He
 
 ---
 
-**Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning.**
-
-Tianxin Wei, <u>Ziwei Wu</u>, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, Wei Wang.
-
-*IEEE International Conference on Data Mining (ICDM)*, 2020. (Full Research, AR: 9.8%).
-
----
-
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**
 
 Tianxin Wei, Fuli Feng, Jiawei Chen, <u>Ziwei Wu</u>, Jinfeng Yi, Xiangnan He
 
 *Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining*, 2021. (Full Research, AR: 15.4%). 
+
+---
+
+**Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning.**
+
+Tianxin Wei, <u>Ziwei Wu</u>, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, Wei Wang.
+
+*IEEE International Conference on Data Mining (ICDM)*, 2020. (Full Research, AR: 9.8%).
 
 
 Services
