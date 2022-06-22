@@ -51,7 +51,7 @@ Haonan Wang<sup>\*</sup>, <u>Ziwei Wu</u><sup>\*</sup>, Jingrui He
 
 <u>Ziwei Wu</u>, Jingrui He
 
-*ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*, 2022. (Full Research, AR: 25.1%).
+*ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*, 2022. (Full Research, AR: 25.1%) <b>Distinguished Paper Award</b>.
 
 ---
 
