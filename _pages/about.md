@@ -33,7 +33,7 @@ I am a second-year PhD student at University of Illinois at Urbana-Champaign (UI
 
   Tianxin Wei, Fuli Feng, Jiawei Chen, <b>Ziwei Wu</b>, Jinfeng Yi, Xiangnan He
 
-  *Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Minin (SIGKDD)*, 2021. 
+  *Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (SIGKDD)*, 2021. 
   <!-- (Full Research, AR: 15.4%).  -->
 
 
