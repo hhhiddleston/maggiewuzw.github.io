@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ------
-I am a second-year PhD student at University of Illinois at Urbana-Champaign (UIUC). I am fortunate to be advised by Professor [Jingrui He](https://ischool.illinois.edu/people/jingrui-he). Before that, I completed my bachlor degree in Computer Science at University of Science and Technology of China (USTC). My research interest lies in fairness-aware machine learning and graph mining. I also love classical music and kpop dance.
+I am a second-year PhD student at University of Illinois at Urbana-Champaign (UIUC). I am fortunate to be advised by Professor [Jingrui He](https://ischool.illinois.edu/people/jingrui-he). Before that, I completed my bachlor degree in Computer Science at University of Science and Technology of China (USTC). My research interest lies in fairness-aware machine learning, trustworthy machine learning, and graph mining. I also love classical music and kpop dance.
 
 
 
@@ -21,6 +21,12 @@ I am a second-year PhD student at University of Illinois at Urbana-Champaign (UI
   Haonan Wang<sup>\*</sup>, <b>Ziwei Wu<sup>\*</sup></b>, Jingrui He
 
   *arXiv*, 2022.
+
+- Deep Active Learning by Leveraging Training Dynamics.
+
+  Haonan Wang, Wei Huang,<b>Ziwei Wu</b>, Andrew Margenot, Hanghang Tong, Jingrui He., Jingrui He
+
+  *NeurIPS*, 2022.
 
 - Fairness-aware Model-agnostic Positive and Unlabeled Learning.
 
@@ -33,9 +39,8 @@ I am a second-year PhD student at University of Illinois at Urbana-Champaign (UI
 
   Tianxin Wei, Fuli Feng, Jiawei Chen, <b>Ziwei Wu</b>, Jinfeng Yi, Xiangnan He
 
-  *Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (SIGKDD)*, 2021. 
+  *Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (SIGKDD)*, 2021. <b>Most Influential KDD Papers</b>.
   <!-- (Full Research, AR: 15.4%).  -->
-
 
 
 - Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning.
@@ -72,14 +77,16 @@ I am a second-year PhD student at University of Illinois at Urbana-Champaign (UI
 Services
 ------
 
-- Program Committee: CIKM(2022)
+- Program Committee: CIKM 2021, CIKM 2022, WSDM 2023
 
-- Reviewer: NeurIPS(2022)
+- Reviewer: ACM Multimedia 2021, SIGIR 2021, NeurIPS 2022, TKDE
 
 
 Selected Honors
 ------
-
+- Distinguished Paper Award of FAccT, 2022
+- Best Program Committee of CIKM, 2022
+- Most Influential KDD Papers, 2021
 - Valedictorian of Class of 2020, USTC
 - Guo Moruo Scholarship (Summa Cum Laude), 2019
 - Tang Lixin Scholarship, 2018
