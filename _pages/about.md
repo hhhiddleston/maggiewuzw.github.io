@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ------
-I am a second-year PhD student at University of Illinois at Urbana-Champaign (UIUC). I am fortunate to be advised by Professor [Jingrui He](https://ischool.illinois.edu/people/jingrui-he). Before that, I completed my bachlor degree in Computer Science at University of Science and Technology of China (USTC). My research interest lies in fairness-aware machine learning, trustworthy machine learning, and graph mining. I also love classical music and kpop dance.
+I am a third-year PhD student at University of Illinois at Urbana-Champaign (UIUC). I am fortunate to be advised by Professor [Jingrui He](https://ischool.illinois.edu/people/jingrui-he). Before that, I completed my bachlor degree in Computer Science at University of Science and Technology of China (USTC). My research interest lies in fairness-aware machine learning, trustworthy machine learning, and graph mining. I also love classical music and kpop dance.
 
 
 
@@ -24,7 +24,7 @@ I am a second-year PhD student at University of Illinois at Urbana-Champaign (UI
 
 - Deep Active Learning by Leveraging Training Dynamics.
 
-  Haonan Wang, Wei Huang,<b>Ziwei Wu</b>, Andrew Margenot, Hanghang Tong, Jingrui He., Jingrui He
+  Haonan Wang, Wei Huang, <b>Ziwei Wu</b>, Andrew Margenot, Hanghang Tong, Jingrui He., Jingrui He
 
   *NeurIPS*, 2022.
 
