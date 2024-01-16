@@ -15,18 +15,26 @@ I am a third-year PhD student at University of Illinois at Urbana-Champaign (UIU
 
 
 <h2 id="publications"> Publications</h2>
+- Neural Active Learning Beyond Bandits.
+  
+  Yikun Ban, Ishika Agarwal, <b>Ziwei Wu</b>, Yada Zhu, Kommy Weldemariam, Hanghang Tong, Jingrui He
+
+  *ICLR*, 2024.
+  <!-- (Poster Session, AR: 31%) -->
 
 - Training Fair Deep Neural Networks by Balancing Influence.
 
   Haonan Wang<sup>\*</sup>, <b>Ziwei Wu<sup>\*</sup></b>, Jingrui He
 
-  *arXiv*, 2022.
+  *WSDM*, 2024.
+  <!-- (Full Research, AR: 18%) -->
 
 - Deep Active Learning by Leveraging Training Dynamics.
 
   Haonan Wang, Wei Huang, <b>Ziwei Wu</b>, Andrew Margenot, Hanghang Tong, Jingrui He., Jingrui He
 
   *NeurIPS*, 2022.
+  <!-- (Poster Session, AR: 25.6%) -->
 
 - Fairness-aware Model-agnostic Positive and Unlabeled Learning.
 
