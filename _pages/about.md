@@ -61,33 +61,40 @@ I am a third-year PhD student at University of Illinois at Urbana-Champaign (UIU
 
 ## Experience
 
-- **University of Illinois at Urbana-Champaign**, 2020-present
-
-  Ph.D. student, Advisor: Prof. Jingrui He
+- **Meituan**, 2020
+  
+  Knowledge Graph and Data Mining Group, Advisor: Dr. Mengdi Zhang and Dr. Fuzheng Zhang
 
 - **Microsoft Research Asia**, 2020
 
   Creative Talent Academy, Advisor: Dr. Ming Zhou
 
-  
 
 - **University of California, Los Angeles**, 2019
 
   Cross-Disciplinary Scholars in Science and Technology (CSST), Advisor: Prof. Wei Wang and Prof. Yizhou Sun
   
 
+
+
+
+## Education
+
+- **University of Illinois at Urbana-Champaign**, 2020-present
+
+  Ph.D. student, Advisor: Prof. Jingrui He
+
 - **University of Science and Technology of China**, 2016-2020
 
   Bachelor of Computer Science, Advisor: Prof. Xiangyang Li and Prof. Xiangnan He
 
 
-
 Services
 ------
 
-- Program Committee: CIKM 2021, CIKM 2022, WSDM 2023
+- Program Committee: CIKM 2021, CIKM 2022, WSDM 2023, CIKM 2023, FAccT 2023, BigData 2023, AAAI 2024
 
-- Reviewer: ACM Multimedia 2021, SIGIR 2021, NeurIPS 2022, TKDE
+- Reviewer: ACM Multimedia 2021, SIGIR 2021, NeurIPS 2022, TMLR, NeurIPS 2023, KDD 2023, NeurIPS 2024, ICLR 2024, WWW 2024
 
 
 Selected Honors
